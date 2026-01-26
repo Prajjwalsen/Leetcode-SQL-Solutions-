@@ -11,13 +11,9 @@
 
 ---
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/900px-Sql_data_base_with_logo.png" width="140"/>
-
 ## 👋 Welcome to My LeetCode SQL Repository
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdmZDBxcmFsOTk5ZHhwZzFrank1NTQzbmg5NG9zcnB5bHlrZTNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="320"/>
-</p>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdmZDBxcmFsOTk5ZHhwZzFrank1NTQzbmg5NG9zcnB5bHlrZTNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
 
 
 This repository documents my **daily LeetCode SQL practice**.  
@@ -36,7 +32,7 @@ I believe strong SQL skills come from **practice, analysis, and refinement**.
 
 ## 🛠 Tech & Tools Used
 
-<img align="right" src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" width="200"/>
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/900px-Sql_data_base_with_logo.png" width="200"/>
 
 ### 🗄️ SQL
 - Primary language for all solutions  
