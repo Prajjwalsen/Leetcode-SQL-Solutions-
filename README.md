@@ -55,3 +55,15 @@ Every SQL solution follows a **clean & interview-friendly structure**:
 SELECT ...
 FROM ...
 WHERE ...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prajjwalsen/Leetcode-SQL-Solutions-/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prajjwalsen/Leetcode-SQL-Solutions-/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
